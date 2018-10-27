@@ -32,3 +32,11 @@ C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\obj\Debug\AxInterop.WMPL
 C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.ResolveComReference.cache
 C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.exe
 C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.pdb
+C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\bin\Debug\MusicPlayerApp.exe
+C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\bin\Debug\MusicPlayerApp.pdb
+C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\bin\Debug\Interop.WMPLib.dll
+C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.csprojResolveAssemblyReference.cache
+C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.frm_MusicPlayer_EN.resources
+C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.Properties.Resources.resources
+C:\Users\HooMaN\Source\Repos\MusicPlayer\MusicPlayerApp\obj\Debug\MusicPlayerApp.csproj.GenerateResource.Cache
